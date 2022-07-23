@@ -1,15 +1,15 @@
 
-<h1 align="center">Hi ðŸ‘‹, I'm Jayant Sharma</h1>
+<h1 align="center">Hi 👋, I'm Jayant Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding' width="400"
 src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantsharma17&label=Profile%20views&color=0e75b6&style=flat" alt="jayantsharma17" /> </p>
 
-- ðŸŒ± Iâ€™m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development**
 
-- ðŸ’¬ Ask me about **Python programming,C programming, Graphics Designing, Editing**
+- 💬 Ask me about **Python programming,C programming, Graphics Designing, Editing**
 
-- ðŸ“« How to reach me **mejayantsh@gmail.com**
+- ✉️ How to reach me **mejayantsh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
