@@ -14,7 +14,7 @@ src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jayant sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayant sharma" height="30" width="40" /></a>
-<a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="jayant sharma" height="30" width="40" /></a>
+<a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="jayant sharma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jayant sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jayant sharma" height="30" width="40" /></a>
 </p>
 
