@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Jayant Sharma</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding' width="200"
-src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+<img align="right" alt="Coding" width="200" height="auto" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantsharma17&label=Profile%20views&color=0e75b6&style=flat" alt="jayantsharma17" /> </p>
 
 - 🌱 I’m currently working on **Android Development**
