@@ -1,19 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Jayant Sharma</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding' width="400"
 src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantsharma17&label=Profile%20views&color=0e75b6&style=flat" alt="jayantsharma17" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently working on **Android Development**
 
-- 💬 Ask me about **Python programming,C programming, Graphics Designing, Editing**
+- 💬 Ask me about **Java, JavaScript, MERN Stack, Python programming, Graphics Designing, Editing**
 
 - ✉️ How to reach me **mejayantsh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jayant sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayant sharma" height="30" width="40" /></a>
+<a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="jayant sharma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jayant sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jayant sharma" height="30" width="40" /></a>
 </p>
 
