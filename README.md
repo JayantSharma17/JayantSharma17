@@ -31,11 +31,6 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayantsharma17&show_icons=true&locale=en&layout=compact" alt="jayantsharma17" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayantsharma17&show_icons=true&locale=en" alt="jayantsharma17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantsharma17&" alt="jayantsharma17" /></p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayantSharma17&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayantSharma17&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
