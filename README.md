@@ -24,6 +24,7 @@
 <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhc4FBmhS4DbJ04BWSeH2Fz5JUgDBatKGQcPEgfbpG5Q&s" alt="NodeJs" width="40" height="40"/> </a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://thumbs.dreamstime.com/b/java-logo-editorial-illustrative-white-background-eps-download-vector-jpeg-banner-java-logo-editorial-illustrative-white-208329454.jpg" alt="Java" width="40" height="40"/> </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="ExpressJs" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="MongoDB" width="40" height="40"/> </a>
 
 
 </p>
