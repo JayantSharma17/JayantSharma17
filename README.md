@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jayant sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayant sharma" height="30" width="40" /></a>
-<a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="jayant sharma" height="30" width="40" /></a>
+<a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-leetcode-11492972-9325307.png" alt="jayant sharma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jayant sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jayant sharma" height="30" width="40" /></a>
 </p>
 
@@ -27,6 +27,10 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="ExpressJs" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/736x/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.jpg" alt="Figma" width="40" height="40"/> </a>
+
+<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-9294848-7577991.png" alt="JS" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" alt="Firebase" width="40" height="40"/> </a>
+
 
 
 </p>
