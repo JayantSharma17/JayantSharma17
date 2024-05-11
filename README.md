@@ -31,9 +31,6 @@
 <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-9294848-7577991.png" alt="JS" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" alt="Firebase" width="40" height="40"/> </a>
 
-<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png" alt="Firebase" width="40" height="40"/> </a>
-
-<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Firebase" width="40" height="40"/> </a>
 
 
 </p>
