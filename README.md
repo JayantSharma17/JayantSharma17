@@ -47,7 +47,7 @@
 
 <h3 align="left">My Projects:</h3>
 <p align="left">
-  <a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://skillnmernbackend.onrender.com/show-photo/6567015f8499bedd05d87c61" alt="Badge" height="200" width="350" /></a>
+  <img align="center" src="https://skillnmernbackend.onrender.com/show-photo/6567015f8499bedd05d87c61" style="border-radius: 15px;" alt="Badge" height="200" width="350" />
 </p>
 
 https://drive.google.com/file/d/1FTxmdkghi_7GfFQBiiN50XZyfRTEtZw5/view?usp=sharing
