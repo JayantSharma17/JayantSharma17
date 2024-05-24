@@ -49,7 +49,7 @@
 <p align="left">
   <img align="center" src="https://skillnmernbackend.onrender.com/show-photo/665024446ac2023e509623e9" style="border-radius: 15;" alt="Badge" height="200" width="350" />
 </p>
-Vidya Saathi: Dropout Analysis App<a href="https://www.youtube.com/watch?v=twjN__Z9cqM" target="blank">Link</a>
+Vidya Saathi: Dropout Analysis App <a href="https://www.youtube.com/watch?v=twjN__Z9cqM" target="blank">Project Link</a>
 <hr>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayantSharma17&theme=midnight-purple&hide_border=false)<br/>
