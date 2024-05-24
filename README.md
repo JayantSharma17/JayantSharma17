@@ -37,6 +37,10 @@
 <h3 align="left">Leetcode Badges:</h3>
 <p align="left">
   <a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="Badge" height="40" width="40" /></a>
+  <a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Badge" height="40" width="40" /></a>
+  <a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="Badge" height="40" width="40" /></a>
+  	
+  
 </p>
 
 
