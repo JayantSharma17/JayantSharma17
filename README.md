@@ -16,7 +16,6 @@
 <a href="https://linkedin.com/in/jayant sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayant sharma" height="30" width="40" /></a>
 <a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-leetcode-11492972-9325307.png" alt="jayant sharma" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/jayant sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jayant sharma" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/jayant sharma" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jayant sharma" height="40" width="40" /></a>
 </p>
 
 
@@ -33,8 +32,11 @@
 <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-9294848-7577991.png" alt="JS" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" alt="Firebase" width="40" height="40"/> </a>
 
+</p>
 
-
+<h3 align="left">Leetcode Badges:</h3>
+<p align="left">
+  <a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="Badge" height="40" width="40" /></a>
 </p>
 
 
