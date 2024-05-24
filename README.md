@@ -45,7 +45,12 @@
   
 </p>
 
+<h3 align="left">My Projects:</h3>
+<p align="left">
+  <a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://drive.google.com/file/d/1FTxmdkghi_7GfFQBiiN50XZyfRTEtZw5/view?usp=sharing" alt="Badge" height="200" width="350" /></a>
+</p>
 
+https://drive.google.com/file/d/1FTxmdkghi_7GfFQBiiN50XZyfRTEtZw5/view?usp=sharing
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayantSharma17&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayantSharma17&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
