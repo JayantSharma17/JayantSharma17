@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jayant Sharma</h1>
+<h1 align="center">Hi <img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-leetcode-11492972-9325307.png" alt="jayant sharma" height="30" width="30" />👋, I'm Jayant Sharma</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" height="auto" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
