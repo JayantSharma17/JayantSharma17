@@ -17,7 +17,7 @@
 
 ---
 
-## ◈ About Me
+## ▸ About Me
 
 ```yaml
 name:     Jayant Sharma
@@ -28,7 +28,7 @@ ask_me:   Java · JavaScript · MERN · Python · APIs · System Design
 ```
 
 ---
-## ◈ Tech Stack
+## ▸ Tech Stack
 
 ---
 
@@ -106,7 +106,7 @@ ask_me:   Java · JavaScript · MERN · Python · APIs · System Design
 
 ---
 
-## ◈ What I Bring
+## ▸ What I Bring
 
 | | Strength |
 |--|--|
@@ -118,7 +118,7 @@ ask_me:   Java · JavaScript · MERN · Python · APIs · System Design
 
 ---
 
-## ◈ Current Focus
+## ▸ Current Focus
 
 ```
 [■■■■■■■■░░]  iOS Development          🍎
@@ -129,7 +129,7 @@ ask_me:   Java · JavaScript · MERN · Python · APIs · System Design
 
 ---
 
-## ◈ LeetCode Achievements
+## ▸ LeetCode Achievements
 
 <div align="center">
 
@@ -162,7 +162,7 @@ ask_me:   Java · JavaScript · MERN · Python · APIs · System Design
 
 ---
 
-## ◈ GitHub Stats
+## ▸ GitHub Stats
 
 <div align="center">
 
@@ -173,7 +173,7 @@ ask_me:   Java · JavaScript · MERN · Python · APIs · System Design
 
 ---
 
-## ◈ Connect
+## ▸ Connect
 
 <div align="center">
 
