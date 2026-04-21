@@ -17,14 +17,16 @@
 
 ---
 
-## ▸ About Me
+## ✦ About Me
+
+<div align="center">
 
 ```yaml
-name:     Jayant Sharma
-role:     Software Development Engineer
-focus:    Full Stack (MERN) · Backend APIs · iOS · Android
-mindset:  Clean code · Scalable architecture · Real-world solutions
-ask_me:   Java · JavaScript · MERN · Python · APIs · System Design
+name:      Jayant Sharma
+role:      Software Development Engineer
+focus:     Full Stack (MERN) | Backend APIs | iOS | Android
+mindset:   Clean Code | Scalable Architecture | Real-World Solutions
+skills:    Java | JavaScript | MERN | Python | APIs | System Design
 ```
 
 ---
