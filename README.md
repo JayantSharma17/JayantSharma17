@@ -164,7 +164,7 @@ ask_me:   Java · JavaScript · MERN · Python · APIs · System Design
 <div align="center">
 
 [![Email](https://img.shields.io/badge/mejayantsh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mejayantsh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Jayant%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayant-sharma)
+[![LinkedIn](https://img.shields.io/badge/Jayant%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayant-sharma-9544a4242/)
 [![LeetCode](https://img.shields.io/badge/JayantSharma17-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/JayantSharma17/)
 
 </div>
