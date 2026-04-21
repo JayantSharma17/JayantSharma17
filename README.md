@@ -19,8 +19,6 @@
 
 ## ✦ About Me
 
-<div align="center">
-
 ```yaml
 name:      Jayant Sharma
 role:      Software Development Engineer
