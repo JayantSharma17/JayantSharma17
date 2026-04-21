@@ -104,20 +104,6 @@ ask_me:   Java · JavaScript · MERN · Python · APIs · System Design
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 </div>
 
----
-
-## ▸ What I Bring
-
-| | Strength |
-|--|--|
-| `01` | Full-stack development — MERN, end to end |
-| `02` | REST API design & scalable backend systems |
-| `03` | Cross-platform exposure — Web · iOS · Android |
-| `04` | Consistent DSA practice & problem-solving (LeetCode) |
-| `05` | Clean, production-ready, maintainable code |
-
----
-
 ## ▸ Current Focus
 
 ```
