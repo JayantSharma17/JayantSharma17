@@ -1,57 +1,109 @@
+<div align="center">
 
-<h1 align="center">Hi <img align="center" src="https://i.giphy.com/KGMzZvWa5su2O5LCVR.webp" alt="jayant sharma" height="60" width="60" />, I'm Jayant Sharma</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding" width="400" height="auto" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+# Jayant Sharma
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantsharma17&label=Profile%20views&color=0e75b6&style=flat" alt="jayantsharma17" /> </p>
+**React Native Developer · Mobile Engineer · SDE**
 
-- 🌱 I’m currently working on **Android Development**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayant-sharma-9544a4242)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/JayantSharma17/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://jayantsh-portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jayantsh.sde@gmail.com)
 
-- 💬 Ask me about **Java, JavaScript, MERN Stack, Python programming, Graphics Designing, Editing**
-
-- ✉️ How to reach me **mejayantsh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jayant sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayant sharma" height="30" width="40" /></a>
-<a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-leetcode-11492972-9325307.png" alt="jayant sharma" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/jayant sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jayant sharma" height="30" width="40" /></a>
-
-</p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</a> <a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="ReactJs" width="40" height="40"/> </a>
-<a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhc4FBmhS4DbJ04BWSeH2Fz5JUgDBatKGQcPEgfbpG5Q&s" alt="NodeJs" width="40" height="40"/> </a>
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://thumbs.dreamstime.com/b/java-logo-editorial-illustrative-white-background-eps-download-vector-jpeg-banner-java-logo-editorial-illustrative-white-208329454.jpg" alt="Java" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="ExpressJs" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/736x/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.jpg" alt="Figma" width="40" height="40"/> </a>
-
-<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-9294848-7577991.png" alt="JS" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" alt="Firebase" width="40" height="40"/> </a>
-
-</p>
-
-<h3 align="left">Leetcode Badges:</h3>
-<p align="left">
-  <a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="Badge" height="40" width="40" /></a>
-  <a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Badge" height="40" width="40" /></a>
-  <a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="Badge" height="40" width="40" /></a>
-  <a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="Badge" height="40" width="40" /></a>
-  <a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="Badge" height="40" width="40" /></a>	
-  <a href="https://leetcode.com/JayantSharma17/" target="blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="Badge" height="40" width="40" /></a>
-  
-</p>
-
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=JayantSharma17&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayantSharma17&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JayantSharma17&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## About
+
+React Native Developer with **1.5+ years** of production experience building iOS and Android apps for **10,000+ daily active users** at [Illumine Childcare Ltd](https://apps.apple.com/app/illumine-school).
+
+I own the full mobile release cycle — architecture, Xcode builds, Fastlane CI/CD, and App Store delivery. My work spans payment gateway integrations (Adyen, Apple Pay, Paytm, Bambora), Firebase SDK migrations, React Native version upgrades, and cross-platform performance optimisation.
+
+B.Tech Computer Science @ GLA University (2025) · **800+ LeetCode problems** (Top 5%) · Gujarat National Hackathon finalist.
+
+---
+
+## Impact at Illumine
+
+| What I Shipped | Result |
+|---|---|
+| React Native v0.63 → v0.68 migration (30+ breaking changes) | Zero regressions, 10K+ DAU unaffected |
+| 4 payment gateways (Adyen, Apple Pay, Paytm, Bambora) | ~18% reduction in payment failure rate |
+| Firebase SDK v14 → v18 (Auth, Firestore, RTDB, FCM) | ~30% faster SDK initialisation |
+| 15+ iOS crash fixes via Xcode Instruments & Flipper | ~25% crash rate reduction |
+| i18n support across 15+ global locales | Full multilingual coverage |
+
+---
+
+## Tech Stack
+
+**Mobile**
+`React Native CLI` `TypeScript` `iOS` `Android` `Hermes` `Metro Bundler` `EAS Build`
+
+**iOS**
+`Xcode` `CocoaPods` `TestFlight` `App Store Deployment` `Xcode Instruments`
+
+**State & UI**
+`Redux` `Context API` `Zustand` `Reanimated` `Gesture Handler` `React Navigation v6` `Lottie`
+
+**Payments & APIs**
+`Adyen` `Apple Pay` `Paytm` `Bambora` `REST` `GraphQL` `Axios` `Deep Linking` `FCM`
+
+**Databases & Backend**
+`Firebase (Auth · Firestore · RTDB · FCM)` `MongoDB` `MySQL` `Node.js` `Express.js`
+
+**DevOps & Tooling**
+`Git` `GitHub Actions` `Fastlane` `CI/CD` `Jest` `Flipper` `Postman` `Agile/Scrum`
+
+**Languages**
+`JavaScript ES6+` `TypeScript` `Java` `Python` `Swift (basic)` `SQL`
+
+---
+
+## Projects
+
+### [Brij Teerth](https://play.google.com/store) — React Native Navigation App
+> `React Native` `TypeScript` `Firebase` `Google Play Store`
+
+Pilgrimage navigation app covering **100+ locations** in the Braj region. Built with React Navigation v6 deep linking, Firebase push notifications, and optimised FlatList rendering for smooth performance on low-end Android devices.
+
+**1,000+ downloads · 4+ star rating · Organic growth**
+
+---
+
+### AI Chat Application — Cross-Platform Mobile App
+> `React Native` `TypeScript` `Google Gemini API` `Firebase` `Redux`
+
+Real-time AI chat app with streaming response rendering, Firebase Auth, and Firestore persistent chat history with context window management.
+
+**Sub-200ms perceived response time on mid-range devices**
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JayantSharma17&theme=github-dark-blue&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayantSharma17&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+
+</div>
+
+---
+
+## Currently
+
+- 🔧 Migrating Teacher iOS app to **React Navigation v7** ahead of Apple's iOS 26 SDK deadline
+- 📱 Preparing for **senior SDE roles** at top-tier tech companies
+- 🧠 Active DSA practice — 800+ LeetCode, strong in arrays, trees, graphs, and DP
+
+---
+
+<div align="center">
+
+*Open to senior SDE / React Native roles · Bengaluru, Karnataka · Remote-friendly*
+
+**[View Resume](https://jayantsh-portfolio.netlify.app) · [Connect on LinkedIn](https://linkedin.com/in/jayant-sharma-9544a4242)**
+
+</div>
