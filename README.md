@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="mailto:mejayantsh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-ff4b5c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c"/>
   </a>
   <a href="https://linkedin.com/in/jayant sharma">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1c1c"/>
   </a>
   <a href="https://leetcode.com/JayantSharma17/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
+    <img src="https://img.shields.io/badge/🧠%20LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1c1c1c"/>
   </a>
 </p>
 
