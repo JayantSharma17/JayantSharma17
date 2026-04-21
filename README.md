@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayant Sharma</h1>
-<h3 align="center">Software Development Engineer | Full Stack Developer (MERN) | Problem Solver</h3>
+<h3 align="center">Software Development Engineer | Full Stack Developer (MERN) | Backend & API Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:mejayantsh@gmail.com">
@@ -17,47 +17,27 @@
 
 ## 🚀 About Me
 
-💻 Software Development Engineer with strong foundations in **Full Stack Development (MERN Stack)** and **problem solving**
+💻 Software Development Engineer with strong expertise in **Full Stack Development (MERN Stack)** and backend systems
 
 ⚡ Currently focused on:
+- iOS Development 🍎
 - Android Development 📱
 - Scalable backend systems & APIs ⚙️
 
 🧠 I enjoy building:
-- Clean and efficient backend architectures  
+- Clean and scalable backend architectures  
 - Interactive frontend applications  
 - Real-world problem-solving solutions  
 
 💬 Ask me about:
-`Java` • `JavaScript` • `MERN Stack` • `Python` • `APIs` • `System Logic`
+`Java` • `JavaScript` • `MERN Stack` • `Python` • `APIs` • `System Design`
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c" />
-</p>
-
-### 🌐 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Database & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-</p>
-
-### 🎨 Tools & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,react,html,css,nodejs,express,mongodb,firebase,figma,git,github" />
 </p>
 
 ---
@@ -66,23 +46,35 @@
 
 ✔ Strong understanding of **Full Stack Development (MERN)**  
 ✔ Experience building **REST APIs & backend systems**  
-✔ Good problem-solving skills (active on coding platforms)  
-✔ Ability to work across **frontend + backend + mobile basics**  
-✔ Focus on writing **clean, scalable, and maintainable code**
+✔ Strong problem-solving mindset (LeetCode active)  
+✔ Cross-platform exposure: **Web + Mobile (iOS & Android)**  
+✔ Focus on writing **clean, scalable, production-ready code**
 
 ---
 
-## 📈 Coding Profiles & Achievements
+## 📈 LeetCode Achievements
 
-🏆 Active problem solver on:
+🏆 Consistency, discipline, and problem-solving mindset demonstrated through continuous coding practice
 
-- 🔸 LeetCode (Multiple consistency badges earned)
-- 🔸 HackerRank
+<p align="center">
+  <!-- Consistency Badges -->
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" height="50"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="50"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="50"/>
 
-<p>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" height="40"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="40"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="40"/>
+  <!-- Monthly Badges -->
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" height="50"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="50"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="50"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" height="50"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" height="50"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" height="50"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" height="50"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" height="50"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" height="50"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" height="50"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" height="50"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" height="50"/>
 </p>
 
 ---
@@ -99,28 +91,12 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/jayant sharma">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://leetcode.com/JayantSharma17/">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
-  </a>
-  <a href="https://www.hackerrank.com/jayant sharma">
-    <img src="https://skillicons.dev/icons?i=hackerrank" />
-  </a>
-</p>
-
----
-
 ## 🎯 Current Focus
 
-🚀 Improving expertise in:
-- Android Development
-- Backend Engineering
-- Scalable System Design
+🚀 Strengthening expertise in:
+- iOS Development 🍎
+- Backend Engineering ⚙️
+- Scalable System Design 🧠
 
 ---
 
