@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jayant Sharma</h1>
 <h3 align="center">Software Development Engineer | Full Stack Developer (MERN) | Backend & API Enthusiast</h3>
 
+<h3 align="center">🚀 Let's Connect</h3>
+
 <p align="center">
   <a href="mailto:mejayantsh@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <br/><br/>
   <a href="https://linkedin.com/in/jayant sharma">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <br/><br/>
   <a href="https://leetcode.com/JayantSharma17/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
