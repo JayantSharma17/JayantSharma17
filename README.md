@@ -91,15 +91,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-🚀 Strengthening expertise in:
-- iOS Development 🍎
-- Backend Engineering ⚙️
-- Scalable System Design 🧠
-
----
-
 ## ⚡ Profile Views
 
 <p align="left">
